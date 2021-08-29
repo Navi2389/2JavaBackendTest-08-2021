@@ -1,0 +1,21 @@
+{
+  "data": {
+    "id": 153722081,
+    "url": "IvanTestolga957",
+    "bio": null,
+    "avatar": "https:\/\/imgur.com\/user\/IvanTestolga957\/avatar?maxwidth=290",
+    "avatar_name": "default\/I",
+    "cover": "https:\/\/imgur.com\/user\/IvanTestolga957\/cover?maxwidth=2560",
+    "cover_name": "default\/1-space",
+    "reputation": 0,
+    "reputation_name": "Neutral",
+    "created": 1629730115,
+    "pro_expiration": false,
+    "user_follow": {
+      "status": false
+    },
+    "is_blocked": false
+  },
+  "success": true,
+  "status": 200
+}
